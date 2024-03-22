@@ -1,4 +1,3 @@
-CS2223: Homework 1
 Huy Ho
 3/21/24
 
@@ -22,5 +21,5 @@ have inputted and the computer will go right after you. Once you or the computer
 a play again button will pop up. Press it if you'd like to play again. There's also a
 text area at the bottom of the window narrating everything going on in case you get lost.
 
-Bonus: Double Trouble is an instantiation of the game, Nim. In 1902, C. L. Bouton,
+Double Trouble is an instantiation of the game, Nim. In 1902, C. L. Bouton,
 a mathematician at Harvard University, "solved" it.
